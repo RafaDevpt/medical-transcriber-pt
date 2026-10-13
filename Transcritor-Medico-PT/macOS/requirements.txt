@@ -33,7 +33,7 @@ av>=15.1,<19
 #        why it is unavailable rather than crashing.
 sounddevice>=0.4.6,<0.6
 
-customtkinter>=5.2.2,<6.0
+customtkinter>=5.2.2,<7.0
 
 # ===========================================================================
 # PT-PT: Requisito externo NÃO instalável por pip — o FFmpeg.
