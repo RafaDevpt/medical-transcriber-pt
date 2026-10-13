@@ -19,7 +19,7 @@ faster-whisper>=1.0.3,<2.0
 # EN-UK: PyAV stays below 19: faster-whisper 1.2 calls
 #        `av.open(..., metadata_errors=...)` and PyAV 19 removed that
 #        argument. With 19, every audio decode fails.
-av>=15.1,<19
+av>=17.1.0,<19
 
 # PT-PT: Interface gráfica. Assenta no Tkinter da biblioteca padrão, pelo que
 #        não traz nenhum motor gráfico próprio. Licença MIT.
