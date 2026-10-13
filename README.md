@@ -10,12 +10,12 @@
 **Offline medical audio transcription in European Portuguese**
 
 ![Status](https://img.shields.io/badge/status-rebuild%20in%20progress-E3B341?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Offline](https://img.shields.io/badge/offline-100%25-6E5494?style=for-the-badge)
 ![Language](https://img.shields.io/badge/PT--PT-006600?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Windows_·_Linux_·_macOS-0078D6?style=for-the-badge)
 
-<a href="../../tree/main"><img src="https://img.shields.io/badge/←_back_to_index-30363D?style=flat-square" /></a>
+<a href="https://github.com/RafaDevpt/Personal-AI-Projects"><img src="https://img.shields.io/badge/←_back_to_index-30363D?style=flat-square" /></a>
 
 </div>
 
