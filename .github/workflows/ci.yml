@@ -33,9 +33,9 @@ name: CI
 
 on:
   push:
-    branches: [Medical-Audio-to-Text]
+    branches: [main]
   pull_request:
-    branches: [Medical-Audio-to-Text]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
